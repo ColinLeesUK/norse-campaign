@@ -4,7 +4,10 @@
 
 After defeating the green dragon the party decied to loot the corpse for any valuable items.
 
-Alan decied to search through the druids and doesn't find anything of note to loot, however, their shoulder plates do have a magical quality to them. *Druids mantle: +2 AC when in beast shape*
+Alan decied to search through the druids and doesn't find anything of note to loot, however, their shoulder plates do have a magical quality to them.
+
+*Druids mantle: +2 AC when in beast shape. Shoulder pads*.
+![Druids Mantle](images/armor/druids-mantle.jpg)
 
 Ingemar knowing that chimera anuses are of great value, dragon anuses must be of even more. Rushing for the back side of the dragon Ingemar clumsily butchers the anus and manages to tear through the middle.
 
@@ -30,7 +33,7 @@ As the party prepair to camp for the night, just after the sun has set the party
 
 He is seeking our help as there is trouble in the valley. Travel north to the one out of place pine tree where a lychan coven resides. He wishes us to eradicate these warewolves.
 
-Accross the river there is a lone pine tree standing out of place. Noting that this must be the pine tree Brazmil talked of the party attempt to cross the river.
+Moving back towards Kastiliborg the party notice that accross the river there is a lone pine tree standing out of place. Noting that this must be the pine tree Brazmil talked of the party attempt to cross the river.
 
 Ingemar flies over to the other side of the river with one side of the rope and ties it to the pine tree. The rest of the party try to wade accross the river using the rope to support against the strength of the river. Alan, Tonttu, Erp and Leena all fail against the rushing water. Alan turns himself into a Giant Octopus saving Leena and Tonttu pulling them to the side of the river. Missing Erp at first Alan then travels down the river and attempts to pull him to the side of the river.
 
