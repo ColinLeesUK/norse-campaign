@@ -31,7 +31,9 @@ As the party prepair to camp for the night, just after the sun has set the party
 **Brazmil** - Wareraven, The kindness of the ravens.
 ![Brazmil](images/characters/Brazmil.jpg)
 
-He is seeking our help as there is trouble in the valley. Travel north to the one out of place pine tree where a lychan coven resides. He wishes us to eradicate these warewolves.
+> "I am seeking your help as there is trouble in the valley. Travel north to the one out of place pine tree where a lychan coven resides."
+
+He wishes us to eradicate these warewolves.
 
 Moving back towards [Kastiliborg](locations/kastiliborg.md) the party notice that accross the river there is a lone pine tree standing out of place. Noting that this must be the pine tree Brazmil talked of the party attempt to cross the river.
 
