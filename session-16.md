@@ -2,7 +2,7 @@
 
 *Day 15, Wednesday*.
 
-The party arrive back to Kastilibourg and head to the Manticore's tail. Tied up outside are two new horses, within the party find Komaz eating a meal with a human and goliath, Hamming and Orm.
+The party arrive back to [Kastiliborg](locations/kastiliborg.md) tierd and weiry from their travels, wishing for nothing more than a bath, warm meal and a soft bed they head to the [Manticore's Tail](localtions/kastiliborg/manticores-tail.md). Tied up outside they find two horses they have not seen before, wearily they enter. Within the party find Komaz eating a meal with a human and goliath, [Hamming](characters/hamming.md) and [Orm](characters/orm.md).
 
 Hamming greats the party with might bear hugs, causing damage to half of the party. The druid seeing what is happening quickly turns himself into a bear to ensure he can give an appropriate embrace.
 
