@@ -6,7 +6,8 @@ After defeating the green dragon the party decied to loot the corpse for any val
 
 Alan decied to search through the druids and doesn't find anything of note to loot, however, their shoulder plates do have a magical quality to them.
 
-*Druids mantle: +2 AC when in beast shape. Shoulder pads*.
+- Druids mantle *+2 AC when in beast shape.*
+
 ![Druids Mantle](images/armor/druids-mantle.jpg)
 
 Ingemar knowing that chimera anuses are of great value, dragon anuses must be of even more. Rushing for the back side of the dragon Ingemar clumsily butchers the anus and manages to tear through the middle.
@@ -29,6 +30,7 @@ After this encounter the party decide to take a short rest and regain their stre
 As the party prepair to camp for the night, just after the sun has set the party hear a loud raven call. Another call, and another until the night air is filled with the sound of raven calls. Flying from a tree to the south the party see a large swarm of ravens fly towards the camp. At the edge of the camp the swarm dispurse and a single bird/human lands on the floor in front of them.
 
 **Brazmil** - Wareraven, The kindness of the ravens.
+
 ![Brazmil](images/characters/Brazmil.jpg)
 
 > "I am seeking your help as there is trouble in the valley. Travel north to the one out of place pine tree where a lychan coven resides."
@@ -75,4 +77,4 @@ After defeating the warewolves the party decide to investigate the bodies of the
 
 Deciding to rest the party take refuge in one of the chambers of the dungeon. During this time Ingemar is beset with nightmareish dreams of chasing prey throiugh the forest, humans, animals people I know now and I knew before. Due to this he did not manage to gain any spells or HP. Thanks to his extensive reading he managed to summise that this was due to a curse from taking the treasure. Turning to the celric he asked that the curse be removed.
 
-Deciding to rest again to ensure their wizard has use of his spells the party sleep for the night and head out in the morning foran uneventful journey back to the gates of [Kastiliborg](locations/kastiliborg.md).
+Deciding to rest again to ensure their spell casters have use of their spells the party sleep for the night and head out in the morning for an uneventful journey back to the gates of [Kastiliborg](locations/kastiliborg.md).
