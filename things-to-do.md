@@ -16,3 +16,8 @@
 ## Things of things to do from last session
 
 - Wait to see if the steward comes to investigate our information about the ECG
+
+## Shopping
+
+- *Day 18, Saturday* Collect Hamming's new dragons blood infused Great Axe - Arngeir
+- *Day 23, Thursday* Collect Dragon plate Plate armor - Arngeir

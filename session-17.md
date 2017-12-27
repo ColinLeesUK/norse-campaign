@@ -1,4 +1,4 @@
-# Session 17 -
+# Session 17 - Trechary revealed
 
 *Day 16, Thursday*.
 
@@ -8,7 +8,7 @@ After leaving a message with the Yarl the group decided to sell the rest of thei
 
 ![Pipe](images/apparel/kydos-pipe.jpg)
 
-Scowering through the markets the rest of the party come across a hunter female Wood-Elf that is interested in buying their stock.
+Scowering through the markets the rest of the party come across a female Wood-Elf hunter that is interested in buying their dragon parts.
 
 Items sold:
 
@@ -17,9 +17,9 @@ Items sold:
 
 The huntress told the party that she wouldn't buy the parties dragon blood but suggested that they go to a blacksmith to see if they will embue a weapon with powers.
 
-Deciding to talk to the blacksmith Arngeir, who has done work for the party before, they ask if he knows what the dragons blood could do with a weapon. He says that it can be infused into a weapon to give it special properties but he is not a master in this art. This being said he could take the blood and work it into a Great Axe for Hamming for 85gp. (2 days for the Great Axe)
+Deciding to talk to the blacksmith Arngeir, who has done work for the party before, they ask if he knows what the dragons blood could do with a weapon. He says that it can be infused into a weapon to give it special properties but he is not a master in this art. This being said he could take the blood and work it into a Great Axe for Hamming for 85gp.
 
-Long with the Great Axe Leena asks about making Dragon Plate Plate Armor. Interested by this and seeing that the party have aquired all of the nessesery parts Arngeir has agreed to make it within a week for 600gp.
+Along with the Great Axe Leena asks about making Dragon Plate Plate Armor. Interested by this and seeing that the party have aquired all of the nessesery parts Arngeir has agreed to make it within a week for 600gp.
 
 After purchasing the armor Leena and Alan head to Rennin's to purchase some new diamonds to repay Erp. Talking with a previous aquaintance Leena asks for 900gp worth of diamonds. She managed to get a deal and purchased them for 875gp.
 
