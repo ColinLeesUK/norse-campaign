@@ -1,8 +1,8 @@
 # Session 16 - Assassins terror
 
-*Day 15, Wednesday*.
+*Wednesday (Morning). Week 4 of campaign. 4th week of March*.
 
-The party arrive back to [Kastiliborg](locations/kastiliborg.md) tierd and weiry from their travels, wishing for nothing more than a bath, warm meal and a soft bed they head to the [Manticore's Tail](localtions/kastiliborg/manticores-tail.md). Tied up outside they find two horses they have not seen before, wearily they enter. Within the party find Komaz eating a meal with a human and goliath, [Hamming](characters/hamming.md) and [Orm](characters/orm.md).
+The party arrive back to [Kastaliborg](locations/kastaliborg.md) tierd and weiry from their travels, wishing for nothing more than a bath, warm meal and a soft bed they head to the [Manticore's Tail](localtions/kastaliborg/manticores-tail.md). Tied up outside they find two horses they have not seen before, wearily they enter. Within the party find Komaz eating a meal with a human and goliath, [Hamming](characters/hamming.md) and [Orm](characters/orm.md).
 
 Hamming greats the party with might bear hugs, causing damage to half of the party. The druid seeing what is happening quickly turns himself into a bear to ensure he can give an appropriate embrace.
 
@@ -40,6 +40,6 @@ Kydos taking point on the interigation asks about the Thieves Guild.
 - 3 main branches - one in Gilapla, Kastilibourg and a city further down south
 - 30 in Gilalpa and 20 in Kastilibourg
 
-Waking in the morning the party have decided to keep Thorlot alive for the time being and talk to the Yarl about the criminal undertakings within Kastiliborg. Meeting with Guthrim Lodinson at the Castle gates Ingemar asks for a meeting with the Yarl to discuss urgent matters about what happened the previous evening. Exclaiming that we will be back at noon the party head out to sell their goods in the market.
+Waking in the morning the party have decided to keep Thorlot alive for the time being and talk to the Yarl about the criminal undertakings within Kastaliborg. Meeting with Guthrim Lodinson at the Castle gates Ingemar asks for a meeting with the Yarl to discuss urgent matters about what happened the previous evening. Exclaiming that we will be back at noon the party head out to sell their goods in the market.
 
 **Next session go and sell dragon things**.

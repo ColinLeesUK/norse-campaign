@@ -1,6 +1,6 @@
 # Session 15 - Whiskey and warewolves
 
-*Day 12, Sunday afternoon*.
+*Sunday (Afternoon). Week 4 of campaign. 4th week of March*.
 
 After defeating the green dragon the party decied to loot the corpse for any valuable items.
 
@@ -37,7 +37,7 @@ As the party prepair to camp for the night, just after the sun has set the party
 
 He wishes us to eradicate these warewolves.
 
-Moving back towards [Kastiliborg](locations/kastiliborg.md) the party notice that accross the river there is a lone pine tree standing out of place. Noting that this must be the pine tree Brazmil talked of the party attempt to cross the river.
+Moving back towards [Kastaliborg](locations/kastaliborg.md) the party notice that accross the river there is a lone pine tree standing out of place. Noting that this must be the pine tree Brazmil talked of the party attempt to cross the river.
 
 Ingemar flies over to the other side of the river with one side of the rope and ties it to the pine tree. The rest of the party try to wade accross the river using the rope to support against the strength of the river. Alan, Tonttu, Erp and Leena all fail against the rushing water. Alan turns himself into a Giant Octopus saving Leena and Tonttu pulling them to the side of the river. Missing Erp at first Alan then travels down the river and attempts to pull him to the side of the river.
 
@@ -77,4 +77,4 @@ After defeating the warewolves the party decide to investigate the bodies of the
 
 Deciding to rest the party take refuge in one of the chambers of the dungeon. During this time Ingemar is beset with nightmareish dreams of chasing prey throiugh the forest, humans, animals people I know now and I knew before. Due to this he did not manage to gain any spells or HP. Thanks to his extensive reading he managed to summise that this was due to a curse from taking the treasure. Turning to the celric he asked that the curse be removed.
 
-Deciding to rest again to ensure their spell casters have use of their spells the party sleep for the night and head out in the morning for an uneventful journey back to the gates of [Kastiliborg](locations/kastiliborg.md).
+Deciding to rest again to ensure their spell casters have use of their spells the party sleep for the night and head out in the morning for an uneventful journey back to the gates of [Kastaliborg](locations/kastaliborg.md).

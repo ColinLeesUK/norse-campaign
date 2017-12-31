@@ -12,6 +12,7 @@
   - Alan the Tall has enraged the druids of the valley by not joining their ranks, due to this the druids have decided that Alan and the party can no long live within the valley
 - Kill/Take over the ECG (Efyland Criminal Guild)
   - The ECG have attacked the party, temporarily killing Leena. Because of this brash attack Alan and Leena have voued to remove this criminal guild from Kastaliborg and Gilalpa and put in place their own guild
+- There is a box in the middle of the room in the thieves guild in Kastaliborg, we have one key and need to get another to open the chest
 
 ## Things of things to do from last session
 
@@ -19,5 +20,5 @@
 
 ## Shopping
 
-- *Day 18, Saturday* Collect Hamming's new dragons blood infused Great Axe - Arngeir
-- *Day 23, Thursday* Collect Dragon plate Plate armor - Arngeir
+- *Day 34, Saturday* Collect Hamming's new dragons blood infused Great Axe - Arngeir
+- *Day 39, Thursday* Collect Dragon plate Plate armor - Arngeir

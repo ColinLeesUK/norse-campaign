@@ -1,6 +1,6 @@
 # Session 17 - Trechary revealed
 
-*Day 16, Thursday*.
+*Thursday (Morning). Week 4 of campaign. 4th week of March*.
 
 After leaving a message with the Yarl the group decided to sell the rest of their Dragon wears. Kydos takes this time to collect his horn and pipe.
 
