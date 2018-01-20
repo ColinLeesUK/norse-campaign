@@ -1,5 +1,7 @@
 # List of things to do
 
+- Investigate Tofi and where he has taken Thane Colfin's wife Herdis
+  - Check out the tavern in Gilalpa to know if people know of Tofi
 - Rid the valley of the Giants
   - Fire Giants
   - Frost Giants

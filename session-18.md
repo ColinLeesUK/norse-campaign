@@ -1,6 +1,6 @@
-# Session 18 -
+# Session 18 - Thieve's downfall
 
-*Thursday (Evening). Day 32. Week 4 of campaign. 4th week of March*.
+*Thursday (Evening). Day 52. Week 8 of campaign. 4th week of March*.
 
 Making a plan to rest the night all together the party stay together in the top two rooms within the Manticore's Tail, taking turns to stay out on watch for any attacks.
 
@@ -34,5 +34,6 @@ Items looted
 - Overly large key, very intrecate
 - Series of letters the detail the communication between Arnulf and Releal (Incriminating)
 - Coin purse (50 gp)
+- Ornate key to open a vault in the ECG hideout (Other side is in Gilalpa)
 
 ## End of session - Level up
