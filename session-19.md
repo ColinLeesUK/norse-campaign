@@ -1,4 +1,4 @@
-# Session 19 -
+# Session 19 - Origins of the Gjallarhorn
 
 *Friday. Day 53. Week 8 of campaign. 4th week of March*.
 
@@ -42,4 +42,4 @@ In the morning the party head back to the castle to deliver the Assassin to the 
 
 Keeping true to their word the party head to the heavens gate and into the valley to investigate the hill giant tribe. As they party head into the valley they see a small cyclonic thunder storm above where the druid tree is located.
 
-Journeying on the party come across nothign and decied to bed down for the evening. Waing int he morning the party head out into the forest and happen across an offering shrine to the shemanic tribe.
+Journeying on the party come across nothign and decied to bed down for the evening. Waking in the morning the party head out into the forest and happen across an offering shrine to the shemanic tribe.

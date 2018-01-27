@@ -16,11 +16,7 @@
   - The ECG have attacked the party, temporarily killing Leena. Because of this brash attack Alan and Leena have voued to remove this criminal guild from Kastaliborg and Gilalpa and put in place their own guild
 - There is a box in the middle of the room in the thieves guild in Kastaliborg, we have one key and need to get another to open the chest
 
-## Things of things to do from last session
-
-- Wait to see if the steward comes to investigate our information about the ECG
-
 ## Shopping
 
-- *Day 34, Saturday* Collect Hamming's new dragons blood infused Great Axe - Arngeir
-- *Day 39, Thursday* Collect Dragon plate Plate armor - Arngeir
+- Collect Hamming's new dragons blood infused Great Axe - Arngeir
+- Collect Dragon plate Plate armor - Arngeir
