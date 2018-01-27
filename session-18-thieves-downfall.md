@@ -18,6 +18,8 @@ As 10am hits the party head out towards the sewers lead by Leena and Alan lookin
 
 ## ECG Kastaliborg battle
 
+TODO: Add hideout battle map images
+
 ECG Crest Total: 23
 
 Enemies killed:
@@ -29,11 +31,13 @@ Enemies killed:
 Items looted
 
 - Star saphire (1000gp)
-- 89 gp
+- 139 gp
 - 4 poison viles
-- Overly large key, very intrecate
 - Series of letters the detail the communication between Arnulf and Releal (Incriminating)
-- Coin purse (50 gp)
 - Ornate key to open a vault in the ECG hideout (Other side is in Gilalpa)
 
-## End of session - Level up
+## End of battle
+
+Clearing out the thieve's guild the party explore around trying to find information about Releals communication with the ECG. Within Arnulf's chambers they find some incriminating documents that point to Releal helping the ECG move goods and take control within Kastalibourg.
+
+Working their way through the gideout they find a large open room with a large ornaite chest in the center. There are two key holes in the chest, placing the one found in Arnulf's quaters Leena attempts to pick the other lock but to no avail, they will need to get the key from Gilapa.
